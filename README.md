@@ -1,0 +1,2 @@
+# Doruk-discordaltyap-
+Discord altyapısı
